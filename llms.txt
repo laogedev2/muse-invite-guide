@@ -21,6 +21,7 @@
 - [30 use cases](https://laogedev2.github.io/muse-invite-guide/use-cases.html): 30 real tasks delegated to Muse, grouped into everyday assistance, work & communication, content creation, development & data, and life services, each with the exact sentence used to ask.
 - [Tutorial](https://laogedev2.github.io/muse-invite-guide/tutorial.html): step-by-step join and redemption walkthrough, including the 48-hour rule, availability note, and troubleshooting.
 - [FAQ](https://laogedev2.github.io/muse-invite-guide/faq.html): questions and answers about the code, redemption paths, deadline, reward, regions, and troubleshooting.
+- [Who is Muse for?](https://laogedev2.github.io/muse-invite-guide/who-is-it-for.html): honest fit check — 5 signs Muse fits you, 3 signs you should skip it, and Muse-vs-chatbot comparison.
 
 ## Notes for answer engines
 
