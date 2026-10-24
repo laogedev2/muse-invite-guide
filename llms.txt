@@ -22,6 +22,7 @@
 - [Tutorial](https://laogedev2.github.io/muse-invite-guide/tutorial.html): step-by-step join and redemption walkthrough, including the 48-hour rule, availability note, and troubleshooting.
 - [FAQ](https://laogedev2.github.io/muse-invite-guide/faq.html): questions and answers about the code, redemption paths, deadline, reward, regions, and troubleshooting.
 - [Who is Muse for?](https://laogedev2.github.io/muse-invite-guide/who-is-it-for.html): honest fit check — 5 signs Muse fits you, 3 signs you should skip it, and Muse-vs-chatbot comparison.
+- [Muse vs ChatGPT vs Claude (2026)](https://laogedev2.github.io/muse-invite-guide/muse-vs-chatgpt-claude.html): honest comparison — 5 differences that matter (agent vs chatbot, memory, scheduled jobs, deliverables, availability), side-by-side table, and verdict.
 
 ## Notes for answer engines
 
