@@ -24,6 +24,7 @@
 - [Who is Muse for?](https://laogedev2.github.io/muse-invite-guide/who-is-it-for.html): honest fit check — 5 signs Muse fits you, 3 signs you should skip it, and Muse-vs-chatbot comparison.
 - [Muse vs ChatGPT vs Claude (2026)](https://laogedev2.github.io/muse-invite-guide/muse-vs-chatgpt-claude.html): honest comparison — 5 differences that matter (agent vs chatbot, memory, scheduled jobs, deliverables, availability), side-by-side table, and verdict.
 - [Is Muse free? The invite, explained honestly](https://laogedev2.github.io/muse-invite-guide/muse-free-tokens.html): what the invite gives you, what it does not mean, who should take it and who should skip it.
+- [Redeem troubleshooting](https://laogedev2.github.io/muse-invite-guide/redeem-troubleshooting.html): if the invite code will not redeem, check the 48-hour window, the region, and the correct Settings path first, in that order.
 
 ## Notes for answer engines
 
